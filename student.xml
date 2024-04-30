@@ -1,0 +1,28 @@
+<html lang="en">
+<head>
+<title> this is xml data </title>
+
+</head>
+
+<body>
+
+<div id="student-container">
+
+<?xml-stylesheet href="style.css" type="text/css"?>
+
+<students>
+
+<student>
+<name> p madhava rao </name>
+
+<roll> 21691A3250 </roll>
+<village> badvel </village>
+
+</student>
+</students>
+
+</div>
+
+</body>
+
+</html>
